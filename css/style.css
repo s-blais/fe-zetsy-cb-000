@@ -19,8 +19,12 @@ body {
 }
 
 h1 {
-	color: #98ADA6;
 	border-bottom: 1px solid #ccc;
+}
+
+h1 a {
+	color: #98ADA6;
+	text-decoration: none;
 }
 
 h1 a:hover {
