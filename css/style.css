@@ -21,3 +21,7 @@ h1 {
 	color: #98ADA6;
 	border-bottom: 1px solid #ccc;
 }
+
+img {
+	border: 5px #98ADA6 solid;
+}
