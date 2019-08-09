@@ -23,6 +23,10 @@ h1 {
 	border-bottom: 1px solid #ccc;
 }
 
+h1 a:hover {
+	color: #6F7F7A;
+}
+
 h2 {
 	color: #6F7F7A;
 }
