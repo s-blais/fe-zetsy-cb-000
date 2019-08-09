@@ -50,6 +50,7 @@ header img {
 }
 
 p a {
+	transition: text-decoration 0.5s ease;
 	color: #1683BB;
 	text-decoration: none;
 }
