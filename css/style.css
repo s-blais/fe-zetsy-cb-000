@@ -30,10 +30,13 @@ h2 {
 header img {
 	border: 5px #98ADA6 solid;
 }
+
 #press img {
 	border: 5px solid #ccc;
 	padding: 1px;
 }
+
+/* rollover color is #6F7F7A */
 
 footer {
 	text-align: right;
